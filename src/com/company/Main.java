@@ -4,6 +4,12 @@ public class Main {
 
     public static void main(String[] args) {
         int x = 5;
-        x += x % 2 == 0 ? 1 : 2;
+        switch (x % 2){
+            case 0:
+                x += 1;
+                break;
+            default:
+                x += 2;
+        }
     }
 }
