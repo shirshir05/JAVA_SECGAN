@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         int x;
         x = 5;
-        for(int i = 0;x % 2 != 0;i++)
+        while(x % 2 != 0)
             x += 1;
         x += 1;
     }
