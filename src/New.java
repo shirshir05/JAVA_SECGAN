@@ -6,7 +6,6 @@ public class New {
         //ddd
         //ddd
         //ddd
-        //ddd
         int i = 0;
         for(; i < 3; i++){
         }
