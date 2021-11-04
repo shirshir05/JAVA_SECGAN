@@ -1,6 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        m(System.x);
+        for(int i=1; i < 3; i++){}
 
     }
 }
