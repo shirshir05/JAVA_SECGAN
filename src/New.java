@@ -1,6 +1,6 @@
 public class New {
 
     public static void main(String[] args) {
-        y(x);
+        for(int i=1; i < 3; i++){}
     }
 }
